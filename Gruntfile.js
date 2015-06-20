@@ -36,13 +36,13 @@ module.exports = function(grunt) {
           livereload: true,
         },
       },
-      scss: {
-        files: ['scss/**/*.scss'],
-        tasks: ['compass'],
-        options: {
-          livereload: true,
-        },
-      },
+      //scss: {
+      //  files: ['scss/**/*.scss'],
+      //  tasks: ['compass'],
+      //  options: {
+      //    livereload: true,
+      //  },
+      //},
       init: {
         files: ['Gruntfile.js'],
         tasks: ['watch']

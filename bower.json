@@ -1,0 +1,16 @@
+{
+  "name": "speakspark20150620",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rustichearts/speakspark20150620",
+  "authors": [
+    "k5m <labs.k5m@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

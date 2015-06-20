@@ -223,3 +223,18 @@ body {
   background: red;
   margin-top: 20px;
 }
+
+
+
+#scene2_image1{
+    position: relative;
+    float: left;
+    width: 370px;
+    height: 390px;
+}
+
+#scene2_image1 svg{
+    position: absolute;
+    width: 370px;
+    height: 390px;
+}
